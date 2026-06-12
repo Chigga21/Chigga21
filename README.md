@@ -2,12 +2,14 @@
 
 ## Larping Harder...
 
-<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="600">
+<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="450">
 
 _Aquí vengo, aquí me ves,_ <br />
 _aquí me postro, aquí estoy,_ <br />
 _como tu esclavo que soy,_ <br />
 _abandonado a tus pies._ <br />
+
+$$\Gamma \vdash e : \tau$$
 
 <br clear="right" />
 
@@ -16,11 +18,15 @@ Mi trabajo se centra principalmente en la teoría de lenguajes de programación 
 
 Colaborador de la [*Lean Computer Science Library*](https://github.com/leanprover/cslib).
 
-$$\Gamma \vdash e : \tau$$
-
 ## Skillset
 
-[![Mis lenguajes](https://skillicons.dev/icons?i=haskell,c,python,rust)](https://skillicons.dev)
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=haskell,c,python,rust" width="200" alt="Lenguajes" />
+</a>
+
+</div>
 
 ## Contacto
 
