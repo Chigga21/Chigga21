@@ -2,7 +2,7 @@
 
 ## Larping Harder...
 
-<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="390">
+<img align="right" hspace="40" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="400">
 
 <br />
 
@@ -20,8 +20,6 @@ Mi trabajo se centra principalmente en la teoría de lenguajes de programación 
 
 Colaborador de la [*Lean Computer Science Library*](https://github.com/leanprover/cslib).
 
-## Skillset
-
 <div align="center">
 
 <a href="https://skillicons.dev">
@@ -30,8 +28,11 @@ Colaborador de la [*Lean Computer Science Library*](https://github.com/leanprove
 
 </div>
 
+<div align="center">
+  
 ## Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:saidapis@ciencias.unam.mx)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/said.apis.2025)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/said_malware/)
+</div>
