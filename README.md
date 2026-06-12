@@ -4,12 +4,12 @@
 
 <img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="500">
 
-<h3>
+<br /><br />
+
 <i>Aquí vengo, aquí me ves,</i><br />
 <i>aquí me postro, aquí estoy,</i><br />
 <i>como tu esclavo que soy,</i><br />
 <i>abandonado a tus pies.</i>
-</h3>
 
 $\Gamma \vdash e : \tau$
 
