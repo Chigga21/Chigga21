@@ -23,7 +23,7 @@ Colaborador de la [*Lean Computer Science Library*](https://github.com/leanprove
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=haskell,c,python,rust" width="180" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=haskell,c,python,rust" width="150" alt="Lenguajes" />
 </a>
 
 </div>
