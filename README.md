@@ -2,7 +2,7 @@
 
 ## Larping Harder...
 
-<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="420">
+<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="600">
 
 _Aquí vengo, aquí me ves,_ <br />
 _aquí me postro, aquí estoy,_ <br />
@@ -10,8 +10,6 @@ _como tu esclavo que soy,_ <br />
 _abandonado a tus pies._ <br />
 
 <br clear="right" />
-
-## 
 
 Apasionado de la poesía y de la teoría de la computación. 
 Mi trabajo se centra principalmente en la teoría de lenguajes de programación **(PLT)** y la lógica matemátcia.
