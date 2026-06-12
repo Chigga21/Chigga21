@@ -4,7 +4,7 @@
 
 <img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="500">
 
-<br /><br />
+<br />
 
 <i>Aquí vengo, aquí me ves,</i><br />
 <i>aquí me postro, aquí estoy,</i><br />
