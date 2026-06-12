@@ -2,7 +2,7 @@
 
 ## Larping Harder...
 
-<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="500">
+<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="390">
 
 <br />
 
