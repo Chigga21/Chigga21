@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ## Larp Harder.
 
@@ -10,7 +10,7 @@ como tu esclavo que soy, <br />
 abandonado a tus pies. <br />
 
 </td>
-<td width="50%" valign="top">
+<td width="80%" valign="top">
 
 <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="100%">
 
