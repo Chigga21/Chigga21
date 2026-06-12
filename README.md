@@ -2,14 +2,16 @@
 
 ## Larping Harder...
 
-<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="450">
+<img align="right" src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="500">
 
-_Aquí vengo, aquí me ves,_ <br />
-_aquí me postro, aquí estoy,_ <br />
-_como tu esclavo que soy,_ <br />
-_abandonado a tus pies._ <br />
+<h3>
+<i>Aquí vengo, aquí me ves,</i><br />
+<i>aquí me postro, aquí estoy,</i><br />
+<i>como tu esclavo que soy,</i><br />
+<i>abandonado a tus pies.</i>
+</h3>
 
-$$\Gamma \vdash e : \tau$$
+$\Gamma \vdash e : \tau$
 
 <br clear="right" />
 
@@ -23,7 +25,7 @@ Colaborador de la [*Lean Computer Science Library*](https://github.com/leanprove
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=haskell,c,python,rust" width="200" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=haskell,c,python,rust" width="180" alt="Lenguajes" />
 </a>
 
 </div>
