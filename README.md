@@ -6,8 +6,6 @@
   <img src="./metrics.plugin.languages.svg" alt="Languages" width="420">
   <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="420">
 </div>
-
-$$\Gamma \vdash e : \tau$$
 <br clear="right" />
 
 Apasionado de la poesía y de la teoría de la computación. 
@@ -23,6 +21,7 @@ Colaborador de la [*Lean Computer Science Library*](https://github.com/leanprove
 </a>
 </div>
 
+##
 <div align="center">
   <a href="mailto:saidapis@ciencias.unam.mx"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="16" alt="Gmail" /></a>
   <a href="https://facebook.com/said.apis.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" height="16" alt="Facebook" /></a>
