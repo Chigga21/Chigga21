@@ -3,8 +3,8 @@
 ## Larping Harder...
 
 <div align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="420">
   <img src="./metrics.plugin.languages.svg" alt="Languages" width="420">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="440">
 </div>
 
 $$\Gamma \vdash e : \tau$$
