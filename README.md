@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="./metrics.plugin.languages.svg" alt="Languages" width="420">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="440">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="420">
 </div>
 
 $$\Gamma \vdash e : \tau$$
