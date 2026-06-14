@@ -9,7 +9,7 @@
 <br clear="right" />
 
 Apasionado de la poesía y de la teoría de la computación. 
-Mi trabajo se centra principalmente en la teoría de lenguajes de programación (PLT) y la lógica matemátcia.
+Mi trabajo se centra principalmente en la teoría de lenguajes de programación **(PLT)** y la lógica matemática.
 
 Colaborador de la [*Lean Computer Science Library*](https://github.com/leanprover/cslib).
 
