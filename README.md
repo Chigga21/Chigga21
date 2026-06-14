@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="./metrics.plugin.languages.svg" alt="Languages" width="420">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="420">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="400">
 </div>
 <br clear="right" />
 
@@ -15,7 +15,6 @@ Colaborador de la [*Lean Computer Science Library*](https://github.com/leanprove
 
 <div align="center">
   
-## 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=haskell,c,python,rust" width="160" alt="Lenguajes" />
 </a>
