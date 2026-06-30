@@ -2,12 +2,6 @@
 
 ## Larping Harder...
 
-<div align="center">
-  <img src="./metrics.plugin.languages.svg" alt="Languages" width="420">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Calendar" width="400">
-</div>
-<br clear="right" />
-
 Apasionado de la poesía y de la teoría de la computación. 
 Mis intereses son principalmente la teoría de lenguajes de programación **(PLT)**, la construcción de compiladores y la lógica matemática.
 
