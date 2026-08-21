@@ -2,7 +2,7 @@
 
 ## Larping Harder...
 
-Apasionado de la poesía y de la teoría de la computación. 
+Apasionado de la teoría de la computación. 
 Mis intereses son principalmente la teoría de lenguajes de programación **(PLT)**, la construcción de compiladores y la lógica matemática.
 
 Colaborador en proceso de la [*Lean Computer Science Library*](https://github.com/leanprover/cslib).
