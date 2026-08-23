@@ -1,7 +1,4 @@
 
-
-## Larping Harder...
-
 Apasionado de la teoría de la computación. 
 Mis intereses son principalmente la teoría de lenguajes de programación **(PLT)**, la construcción de compiladores y la lógica matemática.
 
